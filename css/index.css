@@ -30,8 +30,18 @@ body{
     margin-left: 5%;
     margin-top: 5%;
     width: 25%;
+    transition: 0.2s;
 }
 
+.opcoes button a{
+    color: white;
+    text-decoration: none;
+}
+
+.opcoes button:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
 
 
 
